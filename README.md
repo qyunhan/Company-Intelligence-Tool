@@ -1,9 +1,6 @@
 # Decision-Conditioned Company Intelligence
 
-A multi-lens framework for structure discovery, peer analysis, and explainable risk — built on large-scale firm-level data from the CHAMPIONS Group dataset.
-
-**Course:** NUS · Cat A: Data Warriors  
-**Team:** Lim Shi Ying, Qian Yunhan, Yang Xiuli
+A multi-lens framework for structure discovery, peer analysis, and explainable risk — built on large-scale firm-level data (undisclosed).
 
 ---
 
