@@ -70,7 +70,7 @@ Each lens has its own feature matrix, clustering approach, and validation strate
 ## Repository Structure
 
 ```
-├── CAT_A_Data_Warriors.ipynb   # Full analysis pipeline
+├── Complete Model.ipynb   # Full analysis pipeline
 ├── requirements.txt
 └── README.md
 ```
